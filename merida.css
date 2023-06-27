@@ -1,0 +1,24 @@
+.title {
+    border: 1px solid black;
+}
+.title1 {
+    border: 5px dashed black;
+}
+.title2 {
+    border: 5px dotted black;
+}
+.title3 {
+    border: 10px dashed black;
+}
+.title4 {
+    border: 10px dotted black;
+}
+.title5 {
+    border: 10px ridge black;
+}
+.title6{
+    border: 10px groove black;
+}
+.title7 {
+    border: 10px double black;
+}
